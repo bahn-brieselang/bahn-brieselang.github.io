@@ -40,4 +40,4 @@ Also kann man die Fahrt als solche akzeptieren oder findet man die Reise als una
 
 Die gesammelten Daten werden wieder durch [Tableau](https://public.tableau.com/profile/eumel#!/vizhome/bahnumfrage/Dashboard1) verarbeitet und grafisch aufbereitet. Für jeden Tag wird unter allen Bewertungen für jede Kategorie der Mittelwert gebildet. Der bestmögliche Wert ist **5**, entsprechen den 5 Sternen in der App.
 
-Die Akzeptanz kennt nur Ja oder Nein. Hier werden alle Bewertungen in der Totale gezählt und prozentual ausgegeben. Die (App für Android)[https://github.com/eumel8/trainqa/tree/master/android] findet man im Trainqa-Verzeichnis. Mitentwickler sind willkommen.
+Die Akzeptanz kennt nur Ja oder Nein. Hier werden alle Bewertungen in der Totale gezählt und prozentual ausgegeben. Die [App für Android](https://github.com/eumel8/trainqa/tree/master/android) findet man im Trainqa-Verzeichnis. Mitentwickler sind willkommen.
