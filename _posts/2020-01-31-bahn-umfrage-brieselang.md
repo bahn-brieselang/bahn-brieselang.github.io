@@ -7,7 +7,7 @@ date: 2020-01-31
 Was Daten und Computer messen, ist das eine. Aber was empfindet der Mensch, wenn er der Technik ausgeliefert ist? Die Deutsche Bahn lässt dazu etwa einmal im Jahr Umfragen durchführen. Befrager fahren dazu im Zug mit und stellen den Reisenden meist Fragen über ihre Reisegewohnheiten. Sowas wird dann von der [VBB](https://www.vbb.de/unsere-themen/qualitaet/qualitaet-im-regio/meine-linie-rb14) grob zusammengefasst veröffentlicht.
 Aber wie sieht die Qualität der Maschine für den Menschen tagtäglich und individuell aus? Also wie empfindet jeder Reise persönlich seine tägliche Fahrt zur Arbeit oder Schule mit der Bahn? Dazu wurde die App [Bahnumfrage Brieselang](https://play.google.com/store/apps/details?id=com.eumelnet.bahn.spreadsheetinput) entwickelt:
 
-![App Foto](https://lh3.googleusercontent.com/sXK6AOztnvVXNWQkr2qxcoNJeQQdduVLjEI8o6Kx82LG63QaRp8jWNmn2RH-rMkkLw=w1440-h620 "App Foto")
+![App Foto](https://lh3.googleusercontent.com/HJ5ynlpgNJyV5cF2I0Yv3x1DyHMpm3CvMmdfKtygYG3PROnOlMCafwNq9N1C-ptRaQ=w2560-h1220-rw "App Foto")
 
 Die Bedienung ist sehr einfach gehalten und kann sofort nach Zustieg im Zug ausgefüllt werden:
 
