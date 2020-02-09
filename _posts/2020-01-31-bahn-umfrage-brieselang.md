@@ -31,7 +31,7 @@ Wie ist das Platzangebot des Zuges? Also ist der Zug vollständig oder fehlen Wa
 
 Wie ist der Zug durch Reisende ausgelastet? Ist es Modell "Sardinenbüchse" (1=schlecht) oder findet man bequem Platz (5=sehr gut)
 
-Zum Schluss die entscheidene frage, bei der es nur Ja oder Nein gibt:
+Zum Schluss die entscheidene Frage, bei der es nur Ja oder Nein gibt:
 
 **Reise akzeptabel**
 
